@@ -1,4 +1,4 @@
-# Gerateur_AI_Maths
+# Createur_AI_Maths
 
 ## Titre du projet 2 : Générateur IA de Ressources Mathématiques : un outil d'aide à la conception de contenus didactiques pour les enseignants
 Problématique
